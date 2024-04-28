@@ -13,7 +13,7 @@ TODO: Add photo of completed project
 *
 *
 * [Laser cut box](./Mechanical)
-*
+* Wood glue
 *
 *
 *
