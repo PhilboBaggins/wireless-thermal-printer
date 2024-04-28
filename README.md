@@ -12,7 +12,7 @@ TODO: Add photo of completed project
 * A [Thermal printer](https://github.com/PhilboBaggins/components/tree/main/Printers/Thermal%20Printer)
 *
 *
-*
+* [Laser cut box](./Mechanical)
 *
 *
 *
